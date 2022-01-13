@@ -4,7 +4,7 @@ Repo: https://github.com/ucsb-cs156-w22/jpa02-akelkordy
 
 On Heroku: https://jpa02-akelkordy.herokuapp.com/
 
-On Codecov: (Not Yet Set Up)
+On Codecov: https://app.codecov.io/gh/ucsb-cs156-w22/jpa02-akelkordy
 
 
 # About this repo
